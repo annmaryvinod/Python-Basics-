@@ -30,6 +30,8 @@ Basics of Python for reference ( a learning update)
     * max(arr) : finds the max value in the list
     * sum(arr) : finds the sum of all entries in the list
     * nums.sort() : sorts in the ascending order
+13. Tuple/Set in py
+
 
 
 
