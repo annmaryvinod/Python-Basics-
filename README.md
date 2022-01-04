@@ -31,6 +31,8 @@ Basics of Python for reference ( a learning update)
     * sum(arr) : finds the sum of all entries in the list
     * nums.sort() : sorts in the ascending order
 
+13. Tuple : similar to list. But it is IMMUTABLE!    
+
 
 
 
