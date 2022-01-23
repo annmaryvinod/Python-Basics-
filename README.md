@@ -31,7 +31,40 @@ Basics of Python for reference ( a learning update)
     * sum(arr) : finds the sum of all entries in the list
     * nums.sort() : sorts in the ascending order
 
-13. Tuple : similar to list. But it is IMMUTABLE!    
+13. Tuple : similar to list. But it is IMMUTABLE!  
+
+
+
+
+
+
+
+
+
+<!-- ------------------------------------------------------------------------------------- -->
+
+
+
+
+CS50
+
+
+
+
+1. formatted strings
+
+2. indentations are important in python.
+
+    Eg : 
+
+    if n>0 :
+       print(.....)
+
+
+  the body of the if conditional should be under and after "if" in the previous line.
+
+
+3. "else if" is "elif" in python
 
 
 
