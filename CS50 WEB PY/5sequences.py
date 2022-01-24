@@ -6,6 +6,8 @@ print(name[2])
 
 print(name[1:4])
 
+print(f"{name} has {len(name)} letters.")
+
 
 # list
 

@@ -66,6 +66,14 @@ CS50
 
 3. "else if" is "elif" in python
 
+4. Types in Python
+
+<img src = "images/types.png">
+
+5. Data Structures :
+
+<img src = "images/ds.png">
+
 
 
 
