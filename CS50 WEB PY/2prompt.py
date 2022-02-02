@@ -19,3 +19,14 @@ print("My age is " + age)
 place=input("Place:")
 
 print(f"You are from {place}")
+
+
+
+
+
+# edit (2/2/2022)
+
+
+height = input ("Height : ")
+
+print(f"My height is {height}.")

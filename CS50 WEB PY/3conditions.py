@@ -1,4 +1,4 @@
-n = input("Number: ")
+n = (input("Number: "))
 
 if n > 0:
     print("n is positive")
@@ -21,3 +21,6 @@ else:
 
 
     # 4conditions.py has the solution to this!
+
+
+
