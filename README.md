@@ -76,4 +76,19 @@ CS50
 
 
 
+6. IMPORT 
+
+* method 1 :
+
+<img src ="images/import1.png">
+
+
+
+
+* method 2 :
+
+<img src = "images/import2.png">
+
+
+
 
