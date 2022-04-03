@@ -1,5 +1,8 @@
 # List of names
 
+from unicodedata import name
+
+
 names = ["Harry","Ron","Hermoine","Ginny","Draco"]
 
 # Some methods on list
@@ -13,6 +16,12 @@ names.append("Snape")
 names.sort()  
 
 print(names)
+
+
+
+names.append("Jim")
+
+print (names)
 
 
 
