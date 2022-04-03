@@ -19,4 +19,9 @@
  * Global variables can be used by everyone, both inside of functions and outside.
 
 
+ 3. Built in Data Types :
+
+ <img src = "one.png">
+
+
 
