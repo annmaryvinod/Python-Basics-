@@ -24,4 +24,13 @@
  <img src = "one.png">
 
 
+ 4. Python Numbers
+
+ * Three types : 
+
+      1. int 
+      2. float 
+      3. complex
+
+
 
