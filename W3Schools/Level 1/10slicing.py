@@ -13,3 +13,8 @@ print(b[2:5])
 
 b = "Hello, World!"
 print(b[:5])
+
+# Slice To the End
+
+# Get the characters from position 2, and all the way to the end:
+
