@@ -18,4 +18,12 @@ thislist = ["apple", "banana", "cherry"]
 
 
 print(thislist[-1])     # Print the last item of the list
+
+
+
+# Range of Indexes
+
+  # Return the third, fourth, and fifth item:
+
+
  
