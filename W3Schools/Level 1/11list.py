@@ -40,3 +40,12 @@ print(thislist[:4])
 thislist.remove("banana")
 print(thislist)
 
+
+
+
+# Loop Through a List
+
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+  print(x)
+
