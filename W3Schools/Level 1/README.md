@@ -50,3 +50,7 @@
 
          * str() - constructs a string from a wide variety of data types, including strings, integer literals and float literals
 
+
+6. Loop Through a List
+You can loop through the list items by using a for loop         
+
