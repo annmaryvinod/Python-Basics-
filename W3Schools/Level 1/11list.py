@@ -49,3 +49,10 @@ thislist = ["apple", "banana", "cherry"]
 for x in thislist:
   print(x)
 
+
+
+  newList = ["goat","sheep","kitten"]
+
+  for y in newList:
+        print(y)
+
