@@ -41,6 +41,11 @@ thislist.remove("banana")
 print(thislist)
 
 
+thislist.remove("apple")
+print(thislist)
+
+
+
 
 
 # Loop Through a List
