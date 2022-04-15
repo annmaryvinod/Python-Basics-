@@ -1,3 +1,6 @@
+import this
+
+
 mylist = ["apple", "banana", "cherry"]
 
 
@@ -8,6 +11,8 @@ print(mylist)
 
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1])
+
+print(thislist[-1])
 
 
 #Negative Indexing
