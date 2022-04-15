@@ -20,3 +20,5 @@ d = float("4.2") # d will be 4.2
 i = str("s1") # i will be 's1'
 j = str(2)    # j will be '2'
 k = str(3.0)  # k will be '3.0'
+
+g = str("jumbo")
